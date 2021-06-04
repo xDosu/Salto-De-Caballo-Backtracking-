@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622840010 source:c:\users\tomy\dropbox\facultad\análisis y diseño de algoritmos ii\tareas\salto_de_caballo\main.cpp
+	<iostream>
+	<iomanip>
+	<list>
+
