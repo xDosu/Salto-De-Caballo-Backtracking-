@@ -1,3 +1,4 @@
+# Salto de Caballo en ajedrez - Horse jump in chess
 -Español- 
 Este programa obtiene la secuencia que debemos realizar para visitar todos los casilleros de un tablero (en el programa uso un tablero de 5x5) sin pasar dos o mas veces por uno ya visitado.
 Nos moveremos en el tablero como un caballo de ajedrez. El algoritmo encargado de calcular esta secuencia se baso en la técnica de backtracking, este necesita especificar la posición en la que se va a empezar.
